@@ -1,0 +1,8 @@
+.chartCheck {
+    display: flex;
+    background-color: rgb(198 141 228);
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 15px;
+    height: 120px;
+}

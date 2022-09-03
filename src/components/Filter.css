@@ -1,0 +1,27 @@
+.dropDown{
+    width: 95%;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    margin: 0 auto;
+    height: 3rem;  
+}
+.FilterText span{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    left: 5%;
+}
+.dropDownBox{
+    width: 80%;
+    height: 2rem;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: 0px white;
+    border-radius: 6px;
+    text-align: center;
+}
+.dropDownBox:hover{
+    cursor: pointer;
+}
